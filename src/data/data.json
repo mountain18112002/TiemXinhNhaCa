@@ -148,6 +148,11 @@
     {
       "img": "img/team/04.jpg",
       "name": "Dương Khoa",
+      "job": "Inventory Manager"
+    },
+        {
+      "img": "img/team/05.jpg",
+      "name": "Vân Anh",
       "job": "Project Manager"
     }
   ],
